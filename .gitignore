@@ -1,3 +1,4 @@
 *.tmp #ignor pliku o rozszerzeniu tmp
 Tmp #ignor folderu
 *.gitignore #ignor samego siebie 
+.gitignore #ignor samego siebie v2
